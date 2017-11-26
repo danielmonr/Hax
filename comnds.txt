@@ -1,0 +1,2 @@
+workspaces add dcestrategia
+add domains dcestrategia.com

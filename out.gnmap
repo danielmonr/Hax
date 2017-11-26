@@ -1,0 +1,4 @@
+# Nmap 7.60 scan initiated Sat Nov 25 18:35:28 2017 as: nmap -p21 -Pn -oG out.gnmap 192.168.1.69/32
+Host: 192.168.1.69 (shirosaber)	Status: Up
+Host: 192.168.1.69 (shirosaber)	Ports: 21/open/tcp//ftp///
+# Nmap done at Sat Nov 25 18:35:28 2017 -- 1 IP address (1 host up) scanned in 0.06 seconds
