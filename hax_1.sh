@@ -55,7 +55,7 @@ else
     echo "run" >> msf.txt
     echo "exit" >> msf.txt
 
-    # Run exploit
+    # Run exploit, ftp login
     msfconsole -r $PWD/msf.txt
 
     # Check if WordPress and get users
