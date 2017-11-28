@@ -1,4 +1,4 @@
-# Nmap 7.60 scan initiated Mon Nov 27 18:29:05 2017 as: nmap -iL /home/mrd/Documentos/Hax/hosts.txt -Pn -F -oG /home/mrd/Documentos/Hax/nmap.txt
+# Nmap 7.60 scan initiated Mon Nov 27 21:42:54 2017 as: nmap -iL /home/mrd/Documentos/Hax/hosts.txt -Pn -F -oG /home/mrd/Documentos/Hax/nmap.txt
 Host: 107.23.167.148 (ec2-107-23-167-148.compute-1.amazonaws.com)	Status: Up
 Host: 107.23.167.148 (ec2-107-23-167-148.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8081/open/tcp//blackice-icecap///	Ignored State: filtered (96)
 Host: 107.23.188.114 (ec2-107-23-188-114.compute-1.amazonaws.com)	Status: Up
@@ -8,21 +8,21 @@ Host: 12.130.131.126 (rsp.rsys2.net)	Ports: 80/open/tcp//http///, 443/open/tcp//
 Host: 200.38.108.81 (lpk.elektra.com.mx)	Status: Up
 Host: 200.38.108.81 (lpk.elektra.com.mx)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (98)
 Host: 200.38.115.30 (services.elektra.com.mx)	Status: Up
-Host: 200.38.115.30 (services.elektra.com.mx)	Ports: 80/closed/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (98)
-Host: 200.38.122.152 (salsa.com.mx)	Status: Up
-Host: 200.38.122.152 (salsa.com.mx)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (98)
+Host: 200.38.115.30 (services.elektra.com.mx)	Status: Up
+Host: 200.38.122.152 (syr.com.mx)	Status: Up
+Host: 200.38.122.152 (syr.com.mx)	Status: Up
 Host: 200.38.122.163 (scpp.elektra.com.mx)	Status: Up
 Host: 200.38.122.163 (scpp.elektra.com.mx)	Ports: 80/closed/tcp//http///, 443/closed/tcp//https///	Ignored State: filtered (98)
 Host: 200.38.122.189 (producto.elektra.com.mx)	Status: Up
-Host: 200.38.122.189 (producto.elektra.com.mx)	Ports: 80/open/tcp//http///	Ignored State: filtered (99)
-Host: 200.38.122.207 (tpprd.elektra.com.mx)	Status: Up
-Host: 200.38.122.207 (tpprd.elektra.com.mx)	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///	Ignored State: filtered (97)
+Host: 200.38.122.189 (producto.elektra.com.mx)	Status: Up
+Host: 200.38.122.207 (wmlmprd.elektra.com.mx)	Status: Up
+Host: 200.38.122.207 (wmlmprd.elektra.com.mx)	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///	Ignored State: filtered (97)
 Host: 200.38.122.28 (beta.elektra.com.mx)	Status: Up
 Host: 200.38.122.28 (beta.elektra.com.mx)	Ports: 21/open/tcp//ftp///, 25/open/tcp//smtp///, 53/open/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///, 8080/closed/tcp//http-proxy///	Ignored State: filtered (94)
-Host: 200.38.122.41 (exchange.elektra.com.mx)	Status: Up
-Host: 200.38.122.41 (exchange.elektra.com.mx)	Ports: 80/closed/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (98)
-Host: 200.38.122.45 (correo.elektra.com.mx)	Status: Up
-Host: 200.38.122.45 (correo.elektra.com.mx)	Ports: 8443/open/tcp//https-alt///	Ignored State: filtered (99)
+Host: 200.38.122.41 (correogs.com.mx)	Status: Up
+Host: 200.38.122.41 (correogs.com.mx)	Ports: 80/closed/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (98)
+Host: 200.38.122.45 (gssmtp01.correo.elektra.com.mx)	Status: Up
+Host: 200.38.122.45 (gssmtp01.correo.elektra.com.mx)	Ports: 8443/open/tcp//https-alt///	Ignored State: filtered (99)
 Host: 200.38.122.61 (extranet.elektra.com.mx)	Status: Up
 Host: 200.38.122.61 (extranet.elektra.com.mx)	Status: Up
 Host: 34.202.205.46 (ec2-34-202-205-46.compute-1.amazonaws.com)	Status: Up
@@ -49,4 +49,4 @@ Host: 54.89.230.218 (ec2-54-89-230-218.compute-1.amazonaws.com)	Status: Up
 Host: 54.89.230.218 (ec2-54-89-230-218.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8081/open/tcp//blackice-icecap///	Ignored State: filtered (96)
 Host: 66.234.9.113 ()	Status: Up
 Host: 66.234.9.113 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (98)
-# Nmap done at Mon Nov 27 18:29:22 2017 -- 25 IP addresses (25 hosts up) scanned in 16.64 seconds
+# Nmap done at Mon Nov 27 21:43:18 2017 -- 25 IP addresses (25 hosts up) scanned in 24.54 seconds

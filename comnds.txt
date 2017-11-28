@@ -1,0 +1,26 @@
+workspaces add hax
+add domains elektra.com.mx
+use recon/domains-hosts/bing_domain_web
+run
+use recon/domains-hosts/google_site_web
+run
+use recon/domains-hosts/brute_hosts
+run
+use recon/domains-hosts/netcraft
+run
+use recon/hosts-hosts/resolve
+run
+use recon/hosts-hosts/reverse_resolve
+run
+use recon/hosts-hosts/ipinfodb
+run
+use recon/domains-vulnerabilities/xssposed
+run
+use reporting/list
+set FILENAME /home/mrd/Documentos/Hax/hosts.txt
+run
+use reporting/csv
+set FILENAME /home/mrd/Documentos/Hax/hosts.csv
+run
+back
+exit

